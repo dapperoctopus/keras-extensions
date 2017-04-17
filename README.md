@@ -1,6 +1,8 @@
 # keras-extensions
 Extensions for the Keras Deep Learning Framework
 
+Developed on keras version 2.0.3
+
 # New Layers
 Multiplicative LSTM -- Krause et al. 2016; https://arxiv.org/pdf/1609.07959.pdf
 
